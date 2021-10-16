@@ -17,6 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ![GitHub Logo](screenshots/screenshot1.jpg),
 
-![GitHub Logo](screenshots/screenshot2.jpg)
+![GitHub Logo](screenshots/screenshot2.jpg),
+
+![GitHub Logo](screenshots/screenshot3.jpg)
 
 Format: ![Alt Text](url)
