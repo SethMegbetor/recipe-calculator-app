@@ -15,12 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img
-src=“screenshots/Screenshot 2021-10-16 204103.jpg”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
-
 ![GitHub Logo](screenshots/screenshot1.jpg)
+![GitHub Logo](screenshots/screenshot2.jpg)
+
 Format: ![Alt Text](url)
