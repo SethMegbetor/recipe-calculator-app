@@ -22,5 +22,5 @@ alt=“Subject Pronouns”
 style=“margin-right: 10px;”
 />
 
-![GitHub Logo](/screenshots/Screenshot 2021-10-16 204103.jpg)
+![GitHub Logo](screenshots/screenshot1.jpg)
 Format: ![Alt Text](url)
