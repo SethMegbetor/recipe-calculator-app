@@ -1,6 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
+
 import 'recipe.dart';
 import 'recipe_detail.dart';
 
@@ -21,7 +22,7 @@ class RecipeApp extends StatelessWidget {
         colorScheme: theme.colorScheme
             .copyWith(primary: Colors.blue, secondary: Colors.black),
       ),
-      home: const MyHomePage(title: "Recipe Calculator"),
+      home: const MyHomePage(title: "Your Recipe Calculator"),
     );
   }
 }
